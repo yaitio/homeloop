@@ -1,2 +1,2 @@
-fastmcp==4.0.10
+fastmcp==4.1.2
 uvicorn==0.37.0
